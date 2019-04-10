@@ -1,0 +1,28 @@
+$ npm init
+-----------------------------------------------------------------------
+Para iniciar o projeto e criar o arquivo package.json
+
+$ npm install express --save
+-----------------------------------------------------------------------
+O Express é um microframework para aplicativo da web do Node.js 
+mínimo e flexível que fornece um conjunto robusto de recursos 
+para aplicativos web e móvel.
+
+$ npm install nodemon -D
+-----------------------------------------------------------------------
+Nodemon: Segundo o próprio website do Nodemon, esse módulo é um utilitário 
+que irá monitorar todas as alterações nos arquivos de sua aplicação e reiniciar 
+automaticamente o servidor quando for necessário.
+
+$ npm install mongoose
+-----------------------------------------------------------------------
+DB 
+
+$ npm install multer
+-----------------------------------------------------------------------
+para upload de arquivos
+
+$ npm install socket.io
+-----------------------------------------------------------------------
+? Read on Time
+
